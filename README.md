@@ -13,7 +13,7 @@
 ![image](./calc.png)
 
 ## Description
-User can easily calculate using buttons.
+User can easily calculate using buttons on the app.
 
 ## Project Skeleton
 

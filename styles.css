@@ -17,6 +17,13 @@
     background-color: #303134;
     margin-bottom: 20px;
     border-radius: 5px;
+    color:#ffffff;
+    padding:10px;
+    font-size: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 button{

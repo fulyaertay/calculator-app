@@ -17,7 +17,7 @@ User can easily calculate using buttons.
 
 ## Project Skeleton
 
-|----Weather App
+|----Calculator App
 
         |----index.html
         |----styles.css

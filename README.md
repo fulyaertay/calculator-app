@@ -6,11 +6,11 @@
 
 ## Animation of the App
 
-![image](./calc-app.gif)
+![image](./calc.gif)
 
 ## Visulation of the App
 
-![image](./calc-app.png)
+![image](./calc.png)
 
 ## Description
 User can easily calculate using buttons.
@@ -22,8 +22,8 @@ User can easily calculate using buttons.
         |----index.html
         |----styles.css
         |----app.js
-        |----calc-app.gif
-        |----calc-app.png
+        |----calc.gif
+        |----calc.png
         |----readme.md
 ## Overview
 I mastered HTML, CSS and Javascript features in this project. You can see the visual representation of the Calculator App above.

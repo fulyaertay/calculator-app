@@ -36,6 +36,8 @@ button{
     cursor: pointer;
 }
 
-button:hover{
-    background-color: #969da3;
+
+.orangeButton{
+    background-color: coral;
+
 }
